@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@tailwindcss/typography": "github:tailwindlabs/tailwindcss-typography#83f3a834b85bbd25c1bea328a7f54e4757b139d4",
+    "tailwindcss": "^3.0.23"
+  }
+}
